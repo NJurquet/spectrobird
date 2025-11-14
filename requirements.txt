@@ -1,0 +1,6 @@
+numpy
+scipy
+librosa
+pywavelets
+jupyter
+matplotlib
